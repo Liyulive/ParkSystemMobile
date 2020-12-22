@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">刘斯达停车管理系统</string>
+    <string name="title_home">车库</string>
+    <string name="title_queue">排队车辆</string>
+    <string name="title_departure">离开车辆</string>
+    <string name="text_arrTime">到达时间：</string>
+    <string name="text_leaveTime">离开时间：</string>
+</resources>

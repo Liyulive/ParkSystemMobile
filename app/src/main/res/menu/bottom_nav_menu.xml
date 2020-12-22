@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_local_parking_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_queue"
+        android:icon="@drawable/baseline_directions_car_black_24dp"
+        android:title="@string/title_queue" />
+
+    <item
+        android:id="@+id/navigation_departure"
+        android:icon="@drawable/baseline_departure_board_black_24dp"
+        android:title="@string/title_departure" />
+
+</menu>

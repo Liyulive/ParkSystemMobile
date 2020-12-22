@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>小车</item>
+        <item>小卡</item>
+        <item>中卡</item>
+        <item>大卡</item>
+    </string-array>
+</resources>
